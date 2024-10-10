@@ -7,4 +7,8 @@ include_directories(.)
 
 add_executable(Nociones_Clave_Ejercicios_Israel_Lara
     main.cpp
-    main.h)
+    main.h
+        Persona.h
+        Persona.cpp
+        Estudiante.h
+        Estudiante.cpp)
