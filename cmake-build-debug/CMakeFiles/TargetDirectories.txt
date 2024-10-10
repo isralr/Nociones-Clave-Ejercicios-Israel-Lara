@@ -1,0 +1,3 @@
+C:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/cmake-build-debug/CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara.dir
+C:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/cmake-build-debug/CMakeFiles/rebuild_cache.dir
