@@ -1,6 +1,15 @@
 # ninja log v6
-18	451	7502818842771229	CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara.dir/main.cpp.obj	314f953ace930f0f
-452	556	7502818847103896	Nociones_Clave_Ejercicios_Israel_Lara.exe	1950ca5fa7d7b9ca
-22	428	7502862336294435	CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara.dir/Persona.cpp.obj	b80d76ba9d2639a9
-29	551	7502862336364404	CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara.dir/Estudiante.cpp.obj	55a4b6b7bde4d67a
-551	702	7502862341575030	Nociones_Clave_Ejercicios_Israel_Lara.exe	90f82e4757214254
+5	575	7506265304538333	CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara.dir/main.cpp.obj	314f953ace930f0f
+101	199	7506266381621338	Nociones_Clave_Ejercicios_Israel_Lara.exe	e7bd23033c7132d9
+10	469	7506265304594444	CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara.dir/Persona.cpp.obj	b80d76ba9d2639a9
+15	595	7506265304635416	CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara.dir/Estudiante.cpp.obj	55a4b6b7bde4d67a
+358	453	7506271088775893	libmatematicas.a	25e70500666437fe
+20	116	7506265304691394	CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara.dir/funciones.cpp.obj	3eefb6d8ac5763b5
+12	336	7506271706203487	build.ninja	8164b146f7bf0c13
+19	89	7506256285290039	CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara.dir/funciones_.cpp.obj	aca70c5b2d8608c8
+10	22	7506265301717175	clean	20b1347d9ae3b987
+39	366	7506271085588699	CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara.dir/matematicas.cpp.obj	5ceddc92c612816c
+34	357	7506271085543347	CMakeFiles/matematicas.dir/matematicas.cpp.obj	5316f5c3a70c7b7f
+3	311	7506271706203487	build.ninja	8164b146f7bf0c13
+8	77	7506272559628369	CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara.dir/funciones.cpp.obj	3eefb6d8ac5763b5
+78	176	7506272560327382	Nociones_Clave_Ejercicios_Israel_Lara.exe	ecc0298af446314d
