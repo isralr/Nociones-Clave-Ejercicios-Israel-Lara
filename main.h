@@ -1,6 +1,3 @@
-//
-// Created by israe on 10/10/2024.
-//
 
 #ifndef MAIN_H
 #define MAIN_H

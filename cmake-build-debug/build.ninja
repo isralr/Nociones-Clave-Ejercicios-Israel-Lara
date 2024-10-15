@@ -41,114 +41,79 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target Nociones_Clave_Ejercicios_Israel_Lara_1
+# Object build statements for EXECUTABLE target Nociones_Clave_Ejercicios_Israel_Lara
 
 
 #############################################
-# Order-only phony target for Nociones_Clave_Ejercicios_Israel_Lara_1
+# Order-only phony target for Nociones_Clave_Ejercicios_Israel_Lara
 
-build cmake_object_order_depends_target_Nociones_Clave_Ejercicios_Israel_Lara_1: phony || cmake_object_order_depends_target_fmt cmake_object_order_depends_target_matematicas cmake_object_order_depends_target_matematicas2
+build cmake_object_order_depends_target_Nociones_Clave_Ejercicios_Israel_Lara: phony || cmake_object_order_depends_target_fmt cmake_object_order_depends_target_matematicas cmake_object_order_depends_target_matematicas2
 
-build CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara_1.dir/Proyecto_1/main.cpp.obj: CXX_COMPILER__Nociones_Clave_Ejercicios_Israel_Lara_1_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/Proyecto$ 1/main.cpp || cmake_object_order_depends_target_Nociones_Clave_Ejercicios_Israel_Lara_1
+build CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara.dir/Proyecto1/Persona.cpp.obj: CXX_COMPILER__Nociones_Clave_Ejercicios_Israel_Lara_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/Proyecto1/Persona.cpp || cmake_object_order_depends_target_Nociones_Clave_Ejercicios_Israel_Lara
   DEFINES = -DFMT_LOCALE
-  DEP_FILE = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara_1.dir\Proyecto_1\main.cpp.obj.d
+  DEP_FILE = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara.dir\Proyecto1\Persona.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/. -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/cmake-build-debug/_deps/fmt-src/include
-  OBJECT_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara_1.dir
-  OBJECT_FILE_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara_1.dir\Proyecto_1
+  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/cmake-build-debug/_deps/fmt-src/include
+  OBJECT_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara.dir
+  OBJECT_FILE_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara.dir\Proyecto1
 
-build CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara_1.dir/Proyecto_1/Persona.cpp.obj: CXX_COMPILER__Nociones_Clave_Ejercicios_Israel_Lara_1_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/Proyecto$ 1/Persona.cpp || cmake_object_order_depends_target_Nociones_Clave_Ejercicios_Israel_Lara_1
+build CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara.dir/Proyecto1/Estudiante.cpp.obj: CXX_COMPILER__Nociones_Clave_Ejercicios_Israel_Lara_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/Proyecto1/Estudiante.cpp || cmake_object_order_depends_target_Nociones_Clave_Ejercicios_Israel_Lara
   DEFINES = -DFMT_LOCALE
-  DEP_FILE = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara_1.dir\Proyecto_1\Persona.cpp.obj.d
+  DEP_FILE = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara.dir\Proyecto1\Estudiante.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/. -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/cmake-build-debug/_deps/fmt-src/include
-  OBJECT_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara_1.dir
-  OBJECT_FILE_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara_1.dir\Proyecto_1
+  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/cmake-build-debug/_deps/fmt-src/include
+  OBJECT_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara.dir
+  OBJECT_FILE_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara.dir\Proyecto1
 
-build CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara_1.dir/Proyecto_1/Estudiante.cpp.obj: CXX_COMPILER__Nociones_Clave_Ejercicios_Israel_Lara_1_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/Proyecto$ 1/Estudiante.cpp || cmake_object_order_depends_target_Nociones_Clave_Ejercicios_Israel_Lara_1
+build CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara.dir/Proyecto1/funciones.cpp.obj: CXX_COMPILER__Nociones_Clave_Ejercicios_Israel_Lara_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/Proyecto1/funciones.cpp || cmake_object_order_depends_target_Nociones_Clave_Ejercicios_Israel_Lara
   DEFINES = -DFMT_LOCALE
-  DEP_FILE = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara_1.dir\Proyecto_1\Estudiante.cpp.obj.d
+  DEP_FILE = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara.dir\Proyecto1\funciones.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/. -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/cmake-build-debug/_deps/fmt-src/include
-  OBJECT_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara_1.dir
-  OBJECT_FILE_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara_1.dir\Proyecto_1
+  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/cmake-build-debug/_deps/fmt-src/include
+  OBJECT_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara.dir
+  OBJECT_FILE_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara.dir\Proyecto1
 
-build CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara_1.dir/Proyecto_1/funciones.cpp.obj: CXX_COMPILER__Nociones_Clave_Ejercicios_Israel_Lara_1_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/Proyecto$ 1/funciones.cpp || cmake_object_order_depends_target_Nociones_Clave_Ejercicios_Israel_Lara_1
+build CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara.dir/Proyecto1/matematicas.cpp.obj: CXX_COMPILER__Nociones_Clave_Ejercicios_Israel_Lara_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/Proyecto1/matematicas.cpp || cmake_object_order_depends_target_Nociones_Clave_Ejercicios_Israel_Lara
   DEFINES = -DFMT_LOCALE
-  DEP_FILE = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara_1.dir\Proyecto_1\funciones.cpp.obj.d
+  DEP_FILE = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara.dir\Proyecto1\matematicas.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/. -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/cmake-build-debug/_deps/fmt-src/include
-  OBJECT_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara_1.dir
-  OBJECT_FILE_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara_1.dir\Proyecto_1
+  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/cmake-build-debug/_deps/fmt-src/include
+  OBJECT_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara.dir
+  OBJECT_FILE_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara.dir\Proyecto1
 
-build CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara_1.dir/Proyecto_1/matematicas.cpp.obj: CXX_COMPILER__Nociones_Clave_Ejercicios_Israel_Lara_1_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/Proyecto$ 1/matematicas.cpp || cmake_object_order_depends_target_Nociones_Clave_Ejercicios_Israel_Lara_1
+build CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara.dir/Proyecto2/nuevo.cpp.obj: CXX_COMPILER__Nociones_Clave_Ejercicios_Israel_Lara_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/Proyecto2/nuevo.cpp || cmake_object_order_depends_target_Nociones_Clave_Ejercicios_Israel_Lara
   DEFINES = -DFMT_LOCALE
-  DEP_FILE = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara_1.dir\Proyecto_1\matematicas.cpp.obj.d
+  DEP_FILE = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara.dir\Proyecto2\nuevo.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/. -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/cmake-build-debug/_deps/fmt-src/include
-  OBJECT_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara_1.dir
-  OBJECT_FILE_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara_1.dir\Proyecto_1
+  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/cmake-build-debug/_deps/fmt-src/include
+  OBJECT_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara.dir
+  OBJECT_FILE_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara.dir\Proyecto2
+
+build CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara.dir/main.cpp.obj: CXX_COMPILER__Nociones_Clave_Ejercicios_Israel_Lara_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/main.cpp || cmake_object_order_depends_target_Nociones_Clave_Ejercicios_Israel_Lara
+  DEFINES = -DFMT_LOCALE
+  DEP_FILE = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara.dir\main.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/cmake-build-debug/_deps/fmt-src/include
+  OBJECT_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara.dir
+  OBJECT_FILE_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Nociones_Clave_Ejercicios_Israel_Lara_1
+# Link build statements for EXECUTABLE target Nociones_Clave_Ejercicios_Israel_Lara
 
 
 #############################################
-# Link the executable Nociones_Clave_Ejercicios_Israel_Lara_1.exe
+# Link the executable Nociones_Clave_Ejercicios_Israel_Lara.exe
 
-build Nociones_Clave_Ejercicios_Israel_Lara_1.exe: CXX_EXECUTABLE_LINKER__Nociones_Clave_Ejercicios_Israel_Lara_1_Debug CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara_1.dir/Proyecto_1/main.cpp.obj CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara_1.dir/Proyecto_1/Persona.cpp.obj CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara_1.dir/Proyecto_1/Estudiante.cpp.obj CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara_1.dir/Proyecto_1/funciones.cpp.obj CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara_1.dir/Proyecto_1/matematicas.cpp.obj | _deps/fmt-build/libfmtd.a libmatematicas.a libmatematicas2.dll.a || _deps/fmt-build/libfmtd.a libmatematicas.a libmatematicas2.dll
+build Nociones_Clave_Ejercicios_Israel_Lara.exe: CXX_EXECUTABLE_LINKER__Nociones_Clave_Ejercicios_Israel_Lara_Debug CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara.dir/Proyecto1/Persona.cpp.obj CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara.dir/Proyecto1/Estudiante.cpp.obj CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara.dir/Proyecto1/funciones.cpp.obj CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara.dir/Proyecto1/matematicas.cpp.obj CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara.dir/Proyecto2/nuevo.cpp.obj CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara.dir/main.cpp.obj | _deps/fmt-build/libfmtd.a libmatematicas.a libmatematicas2.dll.a || _deps/fmt-build/libfmtd.a libmatematicas.a libmatematicas2.dll
   FLAGS = -g
   LINK_LIBRARIES = _deps/fmt-build/libfmtd.a  libmatematicas.a  libmatematicas2.dll.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara_1.dir
+  OBJECT_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Nociones_Clave_Ejercicios_Israel_Lara_1.exe
-  TARGET_IMPLIB = libNociones_Clave_Ejercicios_Israel_Lara_1.dll.a
-  TARGET_PDB = Nociones_Clave_Ejercicios_Israel_Lara_1.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target Nociones_Clave_Ejercicios_Israel_Lara_2
-
-
-#############################################
-# Order-only phony target for Nociones_Clave_Ejercicios_Israel_Lara_2
-
-build cmake_object_order_depends_target_Nociones_Clave_Ejercicios_Israel_Lara_2: phony || cmake_object_order_depends_target_fmt cmake_object_order_depends_target_matematicas cmake_object_order_depends_target_matematicas2
-
-build CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara_2.dir/Proyecto_2/main.cpp.obj: CXX_COMPILER__Nociones_Clave_Ejercicios_Israel_Lara_2_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/Proyecto$ 2/main.cpp || cmake_object_order_depends_target_Nociones_Clave_Ejercicios_Israel_Lara_2
-  DEFINES = -DFMT_LOCALE
-  DEP_FILE = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara_2.dir\Proyecto_2\main.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/. -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/cmake-build-debug/_deps/fmt-src/include
-  OBJECT_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara_2.dir
-  OBJECT_FILE_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara_2.dir\Proyecto_2
-
-build CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara_2.dir/Proyecto_2/nuevo.cpp.obj: CXX_COMPILER__Nociones_Clave_Ejercicios_Israel_Lara_2_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/Proyecto$ 2/nuevo.cpp || cmake_object_order_depends_target_Nociones_Clave_Ejercicios_Israel_Lara_2
-  DEFINES = -DFMT_LOCALE
-  DEP_FILE = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara_2.dir\Proyecto_2\nuevo.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/. -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/cmake-build-debug/_deps/fmt-src/include
-  OBJECT_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara_2.dir
-  OBJECT_FILE_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara_2.dir\Proyecto_2
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target Nociones_Clave_Ejercicios_Israel_Lara_2
-
-
-#############################################
-# Link the executable Nociones_Clave_Ejercicios_Israel_Lara_2.exe
-
-build Nociones_Clave_Ejercicios_Israel_Lara_2.exe: CXX_EXECUTABLE_LINKER__Nociones_Clave_Ejercicios_Israel_Lara_2_Debug CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara_2.dir/Proyecto_2/main.cpp.obj CMakeFiles/Nociones_Clave_Ejercicios_Israel_Lara_2.dir/Proyecto_2/nuevo.cpp.obj | _deps/fmt-build/libfmtd.a libmatematicas.a libmatematicas2.dll.a || _deps/fmt-build/libfmtd.a libmatematicas.a libmatematicas2.dll
-  FLAGS = -g
-  LINK_LIBRARIES = _deps/fmt-build/libfmtd.a  libmatematicas.a  libmatematicas2.dll.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Nociones_Clave_Ejercicios_Israel_Lara_2.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = Nociones_Clave_Ejercicios_Israel_Lara_2.exe
-  TARGET_IMPLIB = libNociones_Clave_Ejercicios_Israel_Lara_2.dll.a
-  TARGET_PDB = Nociones_Clave_Ejercicios_Israel_Lara_2.exe.dbg
+  TARGET_FILE = Nociones_Clave_Ejercicios_Israel_Lara.exe
+  TARGET_IMPLIB = libNociones_Clave_Ejercicios_Israel_Lara.dll.a
+  TARGET_PDB = Nociones_Clave_Ejercicios_Israel_Lara.exe.dbg
 
 # =============================================================================
 # Object build statements for STATIC_LIBRARY target matematicas
@@ -159,12 +124,12 @@ build Nociones_Clave_Ejercicios_Israel_Lara_2.exe: CXX_EXECUTABLE_LINKER__Nocion
 
 build cmake_object_order_depends_target_matematicas: phony || .
 
-build CMakeFiles/matematicas.dir/Proyecto_1/matematicas.cpp.obj: CXX_COMPILER__matematicas_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/Proyecto$ 1/matematicas.cpp || cmake_object_order_depends_target_matematicas
-  DEP_FILE = CMakeFiles\matematicas.dir\Proyecto_1\matematicas.cpp.obj.d
+build CMakeFiles/matematicas.dir/Proyecto1/matematicas.cpp.obj: CXX_COMPILER__matematicas_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/Proyecto1/matematicas.cpp || cmake_object_order_depends_target_matematicas
+  DEP_FILE = CMakeFiles\matematicas.dir\Proyecto1\matematicas.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/.
+  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara
   OBJECT_DIR = CMakeFiles\matematicas.dir
-  OBJECT_FILE_DIR = CMakeFiles\matematicas.dir\Proyecto_1
+  OBJECT_FILE_DIR = CMakeFiles\matematicas.dir\Proyecto1
 
 
 # =============================================================================
@@ -174,7 +139,7 @@ build CMakeFiles/matematicas.dir/Proyecto_1/matematicas.cpp.obj: CXX_COMPILER__m
 #############################################
 # Link the static library libmatematicas.a
 
-build libmatematicas.a: CXX_STATIC_LIBRARY_LINKER__matematicas_Debug CMakeFiles/matematicas.dir/Proyecto_1/matematicas.cpp.obj
+build libmatematicas.a: CXX_STATIC_LIBRARY_LINKER__matematicas_Debug CMakeFiles/matematicas.dir/Proyecto1/matematicas.cpp.obj
   LANGUAGE_COMPILE_FLAGS = -g
   OBJECT_DIR = CMakeFiles\matematicas.dir
   POST_BUILD = cd .
@@ -191,13 +156,13 @@ build libmatematicas.a: CXX_STATIC_LIBRARY_LINKER__matematicas_Debug CMakeFiles/
 
 build cmake_object_order_depends_target_matematicas2: phony || .
 
-build CMakeFiles/matematicas2.dir/Proyecto_1/matematicas.cpp.obj: CXX_COMPILER__matematicas2_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/Proyecto$ 1/matematicas.cpp || cmake_object_order_depends_target_matematicas2
+build CMakeFiles/matematicas2.dir/Proyecto1/matematicas.cpp.obj: CXX_COMPILER__matematicas2_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/Proyecto1/matematicas.cpp || cmake_object_order_depends_target_matematicas2
   DEFINES = -Dmatematicas2_EXPORTS
-  DEP_FILE = CMakeFiles\matematicas2.dir\Proyecto_1\matematicas.cpp.obj.d
+  DEP_FILE = CMakeFiles\matematicas2.dir\Proyecto1\matematicas.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/.
+  INCLUDES = -IC:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara
   OBJECT_DIR = CMakeFiles\matematicas2.dir
-  OBJECT_FILE_DIR = CMakeFiles\matematicas2.dir\Proyecto_1
+  OBJECT_FILE_DIR = CMakeFiles\matematicas2.dir\Proyecto1
 
 
 # =============================================================================
@@ -207,7 +172,7 @@ build CMakeFiles/matematicas2.dir/Proyecto_1/matematicas.cpp.obj: CXX_COMPILER__
 #############################################
 # Link the shared library libmatematicas2.dll
 
-build libmatematicas2.dll libmatematicas2.dll.a: CXX_SHARED_LIBRARY_LINKER__matematicas2_Debug CMakeFiles/matematicas2.dir/Proyecto_1/matematicas.cpp.obj
+build libmatematicas2.dll libmatematicas2.dll.a: CXX_SHARED_LIBRARY_LINKER__matematicas2_Debug CMakeFiles/matematicas2.dir/Proyecto1/matematicas.cpp.obj
   LANGUAGE_COMPILE_FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\matematicas2.dir
@@ -313,9 +278,7 @@ build _deps/fmt-build/rebuild_cache: phony _deps/fmt-build/CMakeFiles/rebuild_ca
 # =============================================================================
 # Target aliases.
 
-build Nociones_Clave_Ejercicios_Israel_Lara_1: phony Nociones_Clave_Ejercicios_Israel_Lara_1.exe
-
-build Nociones_Clave_Ejercicios_Israel_Lara_2: phony Nociones_Clave_Ejercicios_Israel_Lara_2.exe
+build Nociones_Clave_Ejercicios_Israel_Lara: phony Nociones_Clave_Ejercicios_Israel_Lara.exe
 
 build fmt: phony _deps/fmt-build/libfmtd.a
 
@@ -333,7 +296,7 @@ build matematicas2: phony libmatematicas2.dll
 #############################################
 # Folder: C:/Users/israe/OneDrive/Documentos/GitHub/Nociones-Clave-Ejercicios-Israel-Lara/cmake-build-debug
 
-build all: phony Nociones_Clave_Ejercicios_Israel_Lara_1.exe Nociones_Clave_Ejercicios_Israel_Lara_2.exe libmatematicas.a libmatematicas2.dll _deps/fmt-build/all
+build all: phony Nociones_Clave_Ejercicios_Israel_Lara.exe libmatematicas.a libmatematicas2.dll _deps/fmt-build/all
 
 # =============================================================================
 

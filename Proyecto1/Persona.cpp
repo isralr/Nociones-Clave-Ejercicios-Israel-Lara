@@ -1,7 +1,3 @@
-//
-// Created by israe on 10/10/2024.
-//
-
 #include <string>
 #include "Persona.h"
 
