@@ -1,6 +1,6 @@
 #include <iostream>
 #include "funciones.h"
-#include <main.h>
+#include "main.h"
 
 
 int g = 20;
